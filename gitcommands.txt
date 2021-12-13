@@ -1,4 +1,0 @@
-git status
-touch .gitignore
-git pull
-git push
