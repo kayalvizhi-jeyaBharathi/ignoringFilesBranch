@@ -1,4 +1,3 @@
 helloworld.txt
 */*.txt
-pract2/html.txt
-
+**/html.txt
